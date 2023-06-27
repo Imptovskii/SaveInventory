@@ -1,0 +1,10 @@
+name: SaveInventory
+version: 1.0
+author: Vextricity, fork by /new places/
+main: dev.newplaces.si.Main
+description: Simple plugin that saves / loads a player's inventory.
+commands:
+  inventory:
+    usage: /inventory (save/load)
+    description: Save / load your inventory.
+    aliases: [inv,si]

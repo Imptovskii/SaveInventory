@@ -1,0 +1,11 @@
+prefix: '&f/&6new &bplaces&f/ &7>>&f'
+invSavedMessage: '{prefix} Ваш инвентарь был сохранен!'
+invLoadedMessage: '{prefix} Вы восстановили ваш инвентарь!'
+invalidArgumentsMessage: '{prefix} Неправильные аргументы! Используйте: &a{commandUsage}'
+mustBeAPlayerMessage: '{prefix} You must be a player to use this command!'
+noPermissionMessage: '{prefix} You do not have permission to use this command!'
+invSavedOnDeathMessage: '{prefix} Ваш инвентарь был сохранен! Напишите /inventory
+  load to load it.'
+invAlreadySavedOnDeathMessage: '{prefix} Your inventory could not be saved as you
+  already have a previous inventory saved. Type /inventory load to load it.'
+invNotSavedMessage: '{prefix} Вы не сохраняли инвентарь чтобы его восстанавливать.'
